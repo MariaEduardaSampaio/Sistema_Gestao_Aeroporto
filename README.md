@@ -1,4 +1,4 @@
-# POO_UFMG
+# Sistema de Gestão para Aeroportos
 Cadeira de Programação Orientada a Objetos
 
 ## Integrantes do Grupo
